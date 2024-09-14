@@ -7,7 +7,7 @@
 
 - 💻 I’m currently working with [Darthwares](https://www.darthwares.com/)
 
-- I’m currently learning **Next.js,AI, ML, Generative AI, TensorFlow.js.JS,**
+- I’m currently learning **Next.js,AI, ML, Generative AI, TensorFlow.js.**
 
 - 🎓 Completed Graduation from **Institute of Technology & Management Gwalior**
 

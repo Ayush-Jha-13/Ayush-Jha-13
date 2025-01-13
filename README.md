@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-jha-13&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-jha-13" /> </p>
 
-- 💻 I’m currently working with [Darthwares](https://www.darthwares.com/)
+- 💻 I’m currently working with [Rostan Technologies Pvt. Ltd.](https://rostantechnologies.com/)
 
-- I’m currently learning **Next.js,AI, ML, Generative AI, TensorFlow.js.**
+- I’m currently learning **NetSuite ERP, SuiteScripts, Workflows, Business Processes, Next.js,AI, ML, Generative AI, TensorFlow.js.**
 
 - 🎓 Completed Graduation from **Institute of Technology & Management Gwalior**
 
